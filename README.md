@@ -50,9 +50,9 @@ Rebuild recreates the index in a fresh physical order → pages become contiguou
 
 This diagram shows the core concept:
 
-`images/page-split-diagram.png`
+![Page Split Diagram](images/page-split-diagram.png)
 
-(Upload the provided image from ChatGPT into `/images`)
+ 
 
 ---
 
